@@ -1,0 +1,91 @@
+/* Header styling */
+.header {
+  background-color: #fff3e0;
+  padding: 10px 0;
+}
+
+.header_logo img {
+  height: 40px;
+}
+
+.header a {
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+}
+
+.header a::before {
+  margin-right: 5px;
+}
+
+.header a:nth-child(1)::before {
+  content: "\f015"; /* Home icon */
+  font-family: "Bootstrap-icons";
+}
+
+.header a:nth-child(2)::before {
+  content: "\f3b1"; /* Book icon */
+  font-family: "Bootstrap-icons";
+}
+
+.header a:nth-child(3)::before {
+  content: "\f0c0"; /* People icon */
+  font-family: "Bootstrap-icons";
+}
+
+.header a:nth-child(4)::before {
+  content: "\f4da"; /* Student icon */
+  font-family: "Bootstrap-icons";
+}
+
+input.form-control {
+  height: 30px;
+  font-size: 14px;
+}
+.banner img{
+    width: 95%;
+}
+.BreadcrumbBG{
+   width: 180px;
+   height: 30px;
+    background-color: #897d7d4f;
+ 
+}
+/* Student card styling */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-body .form-check {
+  margin-bottom: 5px;
+}
+
+.card-body .btn {
+  margin-top: 10px;
+}
+
+/* Footer styling */
+.footer {
+  background-color: #ff6200;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.footer a {
+  color: white;
+  margin: 0 10px;
+  font-size: 20px;
+}
+
+.footer a:hover {
+  color: #ddd;
+}
+
+/* Breadcrumb active style */
+.breadcrumb .active {
+  font-weight: bold;
+  color: #333;
+}

@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+.header {
+  background-color: #f7931e;
+}
+
+.nav-links {
+  background-color: #f7931e;
+}
+
+.nav-links a {
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.content {
+  padding: 3rem 1rem;
+}
+
+.footer {
+  background-color: #fcd488;
+  font-size: 0.9rem;
+}
+
+.university-text {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f26522;
+}
