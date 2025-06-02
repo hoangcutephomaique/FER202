@@ -1,10 +1,15 @@
 .App {
   text-align: center;
+  background-color: rgba(0, 0, 0, 0.425);
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  
+}
+.d-flex{
+  width: 35%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
