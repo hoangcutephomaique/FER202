@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is React?",
+    "options": ["A library", "A language", "A framework", "None"],
+    "answer": "A library"
+  },
+  {
+    "question": "What is JSX?",
+    "options": ["A file extension", "JavaScript + XML", "A server", "None"],
+    "answer": "JavaScript + XML"
+  }
+]
