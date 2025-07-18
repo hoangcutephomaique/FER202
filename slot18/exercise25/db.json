@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "MacBook Pro 14",
+      "price": 2399,
+      "description": "Apple M2 Pro, 16GB RAM, 512GB SSD",
+      "catalogs": ["laptop", "apple"]
+    },
+    {
+      "id": "p002",
+      "name": "Dell XPS 13",
+      "price": 1399,
+      "description": "Intel i7, 16GB RAM, 1TB SSD",
+      "catalogs": ["laptop", "dell"]
+    },
+    {
+      "id": "p003",
+      "name": "HP Spectre x360",
+      "price": 1249,
+      "description": "Intel i5, 8GB RAM, 512GB SSD, Touchscreen",
+      "catalogs": ["laptop", "hp", "2-in-1"]
+    },
+    {
+      "id": "p004",
+      "name": "Lenovo ThinkPad X1",
+      "price": 1499,
+      "description": "Intel i7, 16GB RAM, 1TB SSD, Fingerprint reader",
+      "catalogs": ["laptop", "lenovo", "business"]
+    },
+    {
+      "id": "p005",
+      "name": "Asus ROG Zephyrus",
+      "price": 1899,
+      "description": "AMD Ryzen 9, RTX 4060, 16GB RAM, 1TB SSD",
+      "catalogs": ["laptop", "asus", "gaming"]
+    },
+    {
+      "id": "p006",
+      "name": "Acer Swift 3",
+      "price": 699,
+      "description": "Intel i5, 8GB RAM, 256GB SSD",
+      "catalogs": ["laptop", "acer", "budget"]
+    },
+    {
+      "id": "p007",
+      "name": "Microsoft Surface Laptop 5",
+      "price": 1199,
+      "description": "Intel i7, 16GB RAM, 512GB SSD, 13.5” Touch",
+      "catalogs": ["laptop", "microsoft", "premium"]
+    },
+    {
+      "id": "p008",
+      "name": "MSI Katana GF66",
+      "price": 1099,
+      "description": "Intel i7, RTX 3050Ti, 16GB RAM, 512GB SSD",
+      "catalogs": ["laptop", "msi", "gaming"]
+    }
+  ]
+}
