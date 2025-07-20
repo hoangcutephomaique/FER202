@@ -1,0 +1,46 @@
+body {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+.card,
+.navbar,
+.table,
+.modal-content {
+  background-color: #1c1c1c !important;
+  color: #fff !important;
+  border: none;
+}
+
+.btn-primary {
+  background-color: #e91e63;
+  border: none;
+}
+
+.btn-outline-success {
+  border-color: #e91e63;
+  color: #e91e63;
+}
+
+.btn-outline-success:hover {
+  background-color: #e91e63;
+  color: white;
+}
+
+a,
+a:hover {
+  color: #e91e63;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+footer {
+  background: #111;
+  padding: 2rem;
+  text-align: center;
+  color: #999;
+}

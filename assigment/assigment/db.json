@@ -1,0 +1,171 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Phòng Gió Biển",
+      "description": "Phòng hướng biển, có ban công và giường đôi",
+      "price": "1000000",
+      "currentPrice": "900000",
+      "image": "/images/room1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Phòng Cổ Điển",
+      "description": "Phong cách cổ điển, giường Queen",
+      "price": "900000",
+      "currentPrice": "850000",
+      "image": "/images/room2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Phòng Ban Công",
+      "description": "Phòng có ban công rộng, giường đôi",
+      "price": "800000",
+      "currentPrice": "750000",
+      "image": "/images/room3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Phòng Sông Nước",
+      "description": "Phòng cạnh sông, giường King",
+      "price": "950000",
+      "currentPrice": "900000",
+      "image": "/images/room4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Phòng Vườn",
+      "description": "Hướng vườn, yên tĩnh và xanh mát",
+      "price": "850000",
+      "currentPrice": "800000",
+      "image": "/images/room5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Phòng Studio",
+      "description": "Phòng mini có bếp, giường nhỏ",
+      "price": "700000",
+      "currentPrice": "650000",
+      "image": "/images/room6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Phòng Tầng Thượng",
+      "description": "View cao thoáng, giường lớn",
+      "price": "1100000",
+      "currentPrice": "1000000",
+      "image": "/images/room7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Phòng Gia Đình",
+      "description": "2 giường đôi, rộng rãi cho cả gia đình",
+      "price": "1200000",
+      "currentPrice": "1100000",
+      "image": "/images/room8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Phòng Bình Minh",
+      "description": "View hướng đông, ngắm bình minh",
+      "price": "900000",
+      "currentPrice": "850000",
+      "image": "/images/room9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Phòng Hoàng Hôn",
+      "description": "Ngắm hoàng hôn tuyệt đẹp",
+      "price": "950000",
+      "currentPrice": "900000",
+      "image": "/images/room10.jpg"
+    }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "name": "Ăn sáng 1",
+      "price": 100000,
+      "image": "/images/service1.jpg",
+      "quantity": 10
+    },
+    {
+      "id": "s2",
+      "name": "Bữa tối",
+      "price": 50000,
+      "image": "/images/service2.jpg",
+      "quantity": 15
+    },
+    {
+      "id": "s3",
+      "name": "Massage",
+      "price": 200000,
+      "image": "/images/service3.jpg",
+      "quantity": 10
+    },
+    {
+      "id": "s4",
+      "name": "Chuẩn bị thức ăn",
+      "price": 300000,
+      "image": "/images/service4.jpg",
+      "quantity": 12
+    },
+    {
+      "id": "s5",
+      "name": "Bánh Ngọt",
+      "price": 250000,
+      "image": "/images/service5.jpg",
+      "quantity": 25
+    },
+    {
+      "id": "s6",
+      "name": "Tiệc ngoài trời",
+      "price": 400000,
+      "image": "/images/service6.jpg",
+      "quantity": 5
+    },
+    {
+      "id": "s7",
+      "name": "Chụp ảnh",
+      "price": 30000,
+      "image": "/images/service7.jpg",
+      "quantity": 30
+    },
+    {
+      "id": "s8",
+      "name": "Làm móng",
+      "price": 150000,
+      "image": "/images/service8.jpg",
+      "quantity": 18
+    },
+    {
+      "id": "s9",
+      "name": "Gym",
+      "price": 80000,
+      "image": "/images/service9.jpg",
+      "quantity": 40
+    },
+    {
+      "id": "s10",
+      "name": "Yoga",
+      "price": 200000,
+      "image": "/images/service10.jpg",
+      "quantity": 22
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "guest",
+      "password": "654321",
+      "role": "customer"
+    }
+  ],
+  "orders": []
+}
